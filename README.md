@@ -1,16 +1,38 @@
-### Hi there 👋
+🚀 Java Full Stack Developer
+Hi Im GOKUL NATH! 👋
 
-<!--
-**GokulNathRaju/GokulNathRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Java Full Stack Developer with a passion for creating seamless user experiences and building robust backend systems. While I am currently a fresher, I have honed my skills through learning and practicing various tools and technologies in both frontend and backend development.
+🔧 Tech Stack
+🖥️ Frontend:
 
-Here are some ideas to get you started:
+    HTML5 - Structuring web content
+    CSS3 - Styling the web pages
+    JavaScript (ES6+) - Interactivity and dynamic content
+    React.js - Single-page applications (SPAs) and reusable components
+    Bootstrap - Responsive design
+    TypeScript (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Backend:
+
+    Java - Core Java, OOP concepts, and multithreading
+    Spring Boot - Building REST APIs
+    Hibernate - Object-relational mapping (ORM)
+    RESTful Services - API creation and integration
+
+🗄️ Databases:
+
+    MySQL - SQL queries and relational database management
+
+🛠️ Tools & Frameworks:
+
+    Maven - Build automation
+    Git - Version control
+    Postman - API testing
+    VS Code & IntelliJ IDEA - IDEs for development
+    
+📫 How to reach me:
+
+    Email: rgokulnath.cs@gmail.com
+    LinkedIn: https://www.linkedin.com/in/gokul-nath-r-79a047308/ 
+
+Thanks for visiting my profile! 😊 Feel free to reach out if you'd like to collaborate or share insights!
